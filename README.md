@@ -17,5 +17,5 @@ EDISON 시뮬레이션 SW 개발자를 위한 1개의 입력 파일 읽는 C++�
 
 ```C++
     system("rm -rf result");
-	system("mkdir result");
+    system("mkdir result");
 ```
